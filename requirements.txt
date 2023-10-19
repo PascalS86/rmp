@@ -1,0 +1,5 @@
+numpy
+pandas
+textwrap3
+prettytable
+pybtex
